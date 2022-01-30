@@ -1,0 +1,3 @@
+def __add__ (self, complex2): // en python
+self.parteReal=self.parteReal+complex2.parteReal
+self.parteImaginaria=self.parteImaginaria+complex2.parteImaginaria

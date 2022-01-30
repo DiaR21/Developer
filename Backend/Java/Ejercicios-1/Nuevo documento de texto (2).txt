@@ -1,0 +1,40 @@
+import java.io.FileReader;
+import java.io.BufferedReader;
+
+public class Lector{
+
+public static void main(String[] args)
+
+String textoCont;
+
+try(
+
+FileReader objLect= new FileReader("Basel-txt");
+
+BufferedReader objCont new BufferedReader(object);
+
+while((textoCont objCont.readLine()) != nutt)
+
+System.out.println(textoCont);
+
+}
+
+"Lector.java
+
+catch(Exception e)
+
+System.out.println("Error at leer Archivo );
+
+//fin clase
+
+meet.google.com is sharing your screen
+
+Stop sharing
+
+es de la reunión A
+
+Buscar cualquier cosa
+
+$
+
+9%
